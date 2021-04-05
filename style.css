@@ -1,5 +1,5 @@
 /* Basic Style */
-  body {
+body {
     background-color: #f8f8f8;
     color: #333;
     font-family: Lato, sans-serif;
@@ -27,7 +27,7 @@
     width: 500px;
     margin: 0 auto 0;
   }
-  .task {
+  .new-task {
     width: 56%;
     display: inline-block;
     flex-grow: 1;
