@@ -4,13 +4,13 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
   }
-  .project {
+  .header {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
   }
-  .project img {
+  .header img {
     width: 100%;
   }
   .more-inf {
@@ -18,7 +18,7 @@ body {
   }
   
   @media (max-width: 768px) {
-    .project { 
+    .header { 
       text-align: center;
     }
   }
@@ -32,7 +32,7 @@ body {
     display: inline-block;
     flex-grow: 1;
   }
-  .task-row-wrapper {
+  .new-task-location {
     display: flex;
   }
   ul {
