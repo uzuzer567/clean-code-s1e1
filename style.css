@@ -4,21 +4,21 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
 }
-.aaa {
+.project {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
-.aaa img {
+.project img {
     width: 100%;
 }
-.aaa .more_inf {
+.project .more_inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .aaa { 
+  .project { 
     text-align: center;
   }
 }
@@ -118,7 +118,7 @@ li > label {
     font-size: 18px;
     width: 226px;
 }
-li > input[type="text"] {
+li >    input[type="text"] {
     width: 226px;
 }
 button.delete img {
