@@ -1,5 +1,5 @@
 /* Basic Style */
-body {
+  body {
     background-color: #f8f8f8;
     color: #333;
     font-family: Lato, sans-serif;
@@ -91,7 +91,7 @@ body {
     display: block;
     margin: 0 0 20px;
   }
-  #new-task {
+  .task {
     width: 318px;
   }
   
@@ -131,7 +131,7 @@ body {
   }
   
   /* Completed */
-  #completed-tasks label {
+  .completed-tasks label {
     text-decoration: line-through;
     color: #888;
   }
